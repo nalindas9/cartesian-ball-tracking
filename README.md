@@ -34,7 +34,3 @@ pytest test_YOUR_SCRIPT.py
 ## Output
 
 https://user-images.githubusercontent.com/44141068/151729943-36a6cc29-6040-42b6-a176-40e6a28c4b3e.mov
-
-
-## Deployment urls
-- DockerHub repository url: 116698290/aiortc-server-client-app  
