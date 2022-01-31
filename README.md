@@ -6,6 +6,10 @@
 
 The center cartesian coordinates of a generated ball in a video being tracked.
 
+## Output
+
+https://user-images.githubusercontent.com/44141068/151729943-36a6cc29-6040-42b6-a176-40e6a28c4b3e.mov
+
 ## Dependencies
 - Operating System - Ubuntu 18.04
 - Programming language - Python 3.4+
@@ -31,6 +35,4 @@ To run unit tests, in a new terminal, enter:
 cd cartesian-ball-tracking/
 pytest test_YOUR_SCRIPT.py
 ```
-## Output
 
-https://user-images.githubusercontent.com/44141068/151729943-36a6cc29-6040-42b6-a176-40e6a28c4b3e.mov
